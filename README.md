@@ -1,2 +1,2 @@
 # accounts-mgr
-This is a Create account API.
+This is the account manager API.
